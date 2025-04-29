@@ -19,8 +19,9 @@
             "id":"StoneBlock3",
             "vers":"1",
             "url":["https://github.com/mirmironuk/test_MKSR/raw/main/StoneBlock3.zip",
-			"https://github.com/mirmironuk/test_MKSR/raw/main/stoneblock3mods1.zip",
-			"https://github.com/mirmironuk/test_MKSR/raw/main/stoneblock3mods2.zip"],
+			"https://github.com/mirmironuk/test_MKSR/raw/main/stoneblock1mods.zip",
+			"https://github.com/mirmironuk/test_MKSR/raw/main/stoneblock2mods.zip",
+			"https://github.com/mirmironuk/test_MKSR/raw/main/stoneblock3mods.zip"],
 			"id_addition":"1.18.2"
          }
       },
