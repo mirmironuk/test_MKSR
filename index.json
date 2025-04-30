@@ -18,25 +18,10 @@
          "info_dowloand":{
             "id":"StoneBlock3",
             "vers":"1",
-            "url":["https://github.com/mirmironuk/test_MKSR/raw/main/StoneBlock3_any.zip",
-			"https://github.com/mirmironuk/test_MKSR/raw/main/stoneblock1mods.zip",
-			"https://github.com/mirmironuk/test_MKSR/raw/main/stoneblock2mods.zip",
-			"https://github.com/mirmironuk/test_MKSR/raw/main/stoneblock3mods.zip"],
+            "url":["https://github.com/mirmironuk/test_MKSR/raw/main/Stoneblock3_part1.zip",
+			"https://github.com/mirmironuk/test_MKSR/raw/main/Stoneblock3_part2.zip",
+			"https://github.com/mirmironuk/test_MKSR/raw/main/Stoneblock3_part3.zip"],
 			"id_addition":"1.18.2"
-         }
-      },
-      {
-         "ico_url":"https://github.com/mirmironuk/test_MKSR/raw/main/img.jpg",
-         "name":"STADV",
-         "descript":"Накраща збірка по модам ютуб ААААА\nААААА\nААААА\nААААА\nААААА\nААААА\nААААА\nААААА\nААААА\nААААА\nААААА\nААААА\nААААА\nААААА\nААААА\nААААА\nААААА\nААААА\nААААА\nААААА\nААААА\nААААА\nААААА\nААААА\nААААА\nААААА\n",
-         "info_dowloand":{
-            "id":"STADV",
-            "vers":"1",
-            "url":["https://github.com/mirmironuk/test_MKSR/raw/main/STADV.zip",
-			"https://github.com/mirmironuk/test_MKSR/raw/main/STADVmods1.zip",
-			"https://github.com/mirmironuk/test_MKSR/raw/main/STADVmods2.zip",
-			"https://github.com/mirmironuk/test_MKSR/raw/main/STADVmods3.zip"],
-			"id_addition":"1.12.2"
          }
       }
    ]
