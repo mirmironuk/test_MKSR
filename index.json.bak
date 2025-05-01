@@ -6,7 +6,7 @@
          "descript":"Збірка по create\n\n   -Create",
          "info_dowloand":{
             "id":"create",
-            "vers":"2",
+            "vers":"1",
             "url":["https://github.com/mirmironuk/test_MKSR/raw/main/create.zip"],
             "id_addition":"1.20.1"
          }
@@ -21,6 +21,19 @@
             "url":["https://github.com/mirmironuk/test_MKSR/raw/main/Stoneblock3_part1.zip",
 			"https://github.com/mirmironuk/test_MKSR/raw/main/Stoneblock3_part2.zip",
 			"https://github.com/mirmironuk/test_MKSR/raw/main/Stoneblock3_part3.zip"],
+			"id_addition":"1.18.2"
+         }
+      },
+      {
+         "ico_url":"https://media.forgecdn.net/avatars/thumbnails/1068/330/64/64/638602808165369077.png",
+         "name":"STADV",
+         "descript":"Українська збірка модів",
+         "info_dowloand":{
+            "id":"StoneBlock3",
+            "vers":"1",
+            "url":["https://github.com/mirmironuk/test_MKSR/raw/main/STADV_part1.zip",
+			"https://github.com/mirmironuk/test_MKSR/raw/main/STADV_part2.zip",
+			"https://github.com/mirmironuk/test_MKSR/raw/main/STADV_part3.zip"],
 			"id_addition":"1.18.2"
          }
       }
