@@ -1,0 +1,28 @@
+{
+   "data":[
+      {
+         "ico_url":"https://media.forgecdn.net/avatars/thumbnails/1065/184/64/64/638598725500886388.png",
+         "name":"Create",
+         "descript":"Збірка по create\n\n   -Create",
+         "info_dowloand":{
+            "id":"create",
+            "vers":"2",
+            "url":["https://github.com/mirmironuk/test_MKSR/raw/main/create.zip"],
+            "id_addition":"1.20.1"
+         }
+      },
+      {
+         "ico_url":"https://media.forgecdn.net/avatars/thumbnails/1068/330/64/64/638602808165369077.png",
+         "name":"StoneBlock3",
+         "descript":"Build a base that really rocks!\nStoneBlock 3 is here and there's more action \nand adventure waiting for you than\n ever before! In a world of rock \nand stone, release your inner dwarf\n and build your subterranean kingdom! \nUse magic and technology to force \nyour realm to your designs. Make your\n dimension your own, or play with friends. \nFeaturing a free-form sandbox-style play with lots of quests \nand goals to guide you through the pack. With\n scripted events and interactions for players to explore\n along their adventure, you know every \nexperience will be unique. With StoneBlocks's unique\n map generation, the world and its biomes \nare created in concentric circles \naround your base, meaning adventures to\n the Neather or end are never more than a pickaxe (or 20) away!\n",
+         "info_dowloand":{
+            "id":"StoneBlock3",
+            "vers":"1",
+            "url":["https://github.com/mirmironuk/test_MKSR/raw/main/Stoneblock3_part1.zip",
+			"https://github.com/mirmironuk/test_MKSR/raw/main/Stoneblock3_part2.zip",
+			"https://github.com/mirmironuk/test_MKSR/raw/main/Stoneblock3_part3.zip"],
+			"id_addition":"1.18.2"
+         }
+      }
+   ]
+}
