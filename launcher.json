@@ -3,7 +3,7 @@
 		"dowloand": {
 			"launcher": "test_url",
 			"other":[
-				"url_1", "url_1", "url_1", "url_1", "url_1"
+				"https://github.com/mirmironuk/test_MKSR/raw/main/launcher/image_lang.zip"
 			]
 		}
 	}
