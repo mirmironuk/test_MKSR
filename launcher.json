@@ -1,7 +1,7 @@
 {"data":{
 		"laucnher_vers": "1",
 		"dowloand": {
-			"launcher": "test_url"
+			"launcher": "test_url",
 			"other":[
 				"url_1", "url_1", "url_1", "url_1", "url_1"
 			]
