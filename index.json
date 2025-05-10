@@ -8,7 +8,7 @@
          "info_dowloand":{
             "id":"create",
             "vers":"1",
-            "url":["https://github.com/mirmironuk/test_MKSR/raw/main/create.zip"],
+            "url":["https://github.com/mirmironuk/test_MKSR/raw/main/modpack/create.zip"],
             "id_addition":"1.20.1-47.4.0"
          }
       },
@@ -20,24 +20,24 @@
 		 "info_dowloand":{
             "id":"StoneBlock3",
             "vers":"1",
-            "url":["https://github.com/mirmironuk/test_MKSR/raw/main/Stoneblock3_part1.zip",
-			"https://github.com/mirmironuk/test_MKSR/raw/main/Stoneblock3_part2.zip",
-			"https://github.com/mirmironuk/test_MKSR/raw/main/Stoneblock3_part3.zip"],
+            "url":["https://github.com/mirmironuk/test_MKSR/raw/main/modpack/Stoneblock3_part1.zip",
+			"https://github.com/mirmironuk/test_MKSR/raw/main/modpack/Stoneblock3_part2.zip",
+			"https://github.com/mirmironuk/test_MKSR/raw/main/modpack/Stoneblock3_part3.zip"],
 			"id_addition":"1.18.2-40.3.10"
 			
          }
       },
       {
-         "ico_url":"https://github.com/mirmironuk/test_MKSR/raw/main/STADV_img.png",
+         "ico_url":"https://github.com/mirmironuk/test_MKSR/raw/main/modpack/STADV_img.png",
          "name":"Міжзоряні пригоди",
          "descript":"Українська збірка модів",
 		 "font-size_name":"12",
          "info_dowloand":{
             "id":"STADV",
             "vers":"1",
-            "url":["https://github.com/mirmironuk/test_MKSR/raw/main/STADV_part1.zip",
-			"https://github.com/mirmironuk/test_MKSR/raw/main/STADV_part2.zip",
-			"https://github.com/mirmironuk/test_MKSR/raw/main/STADV_part3.zip"],
+            "url":["https://github.com/mirmironuk/test_MKSR/raw/main/modpack/STADV_part1.zip",
+			"https://github.com/mirmironuk/test_MKSR/raw/main/modpack/STADV_part2.zip",
+			"https://github.com/mirmironuk/test_MKSR/raw/main/modpack/STADV_part3.zip"],
 			"id_addition":"1.12.2-14.23.5.2860"
          }
       }
