@@ -1,7 +1,8 @@
 {"data":{
 		"laucnher_vers": "1",
+		"name_vers": "1"
 		"dowloand": {
-			"launcher": "https://github.com/mirmironuk/test_MKSR/raw/main/launcher/launcher.exe",
+			"launcher": "https://github.com/mirmironuk/test_MKSR/raw/main/launcher/launcher_1.exe",
 			"other":[
 				"https://github.com/mirmironuk/test_MKSR/raw/main/launcher/image_lang.zip"
 			]
