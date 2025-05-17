@@ -2,7 +2,7 @@
    "data":[
       {
          "ico_url":"https://github.com/mirmironuk/test_MKSR/raw/main/modpack/STADV_img.png",
-         "name":{"Українська":"Міжзоряні пригоди","English":"STADV"},
+         "name":{"Українська":["Міжзоряні пригоди","12"],"English":["STADV","20"]},
          "descript":"Українська збірка модів",
 		 "font-size_name":"12",
          "info_dowloand":{
