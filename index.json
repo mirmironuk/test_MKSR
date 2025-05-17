@@ -14,31 +14,6 @@
 			"https://github.com/mirmironuk/test_MKSR/raw/main/modpack/STADV_part3.zip"],
 			"id_addition":"1.12.2-14.23.5.2860"
          }
-	  },
-      {
-         "ico_url":"https://minecraft.wiki/images/Icon_Minecraft.png",
-         "name":"Vanila",
-         "descript":"Ваніла",
-		 "font-size_name":"20",
-         "info_dowloand":{
-			"type":"vanila",
-            "id":"1.20.1",
-            "vers":"1",
-            "url":["https://github.com/mirmironuk/test_MKSR/raw/main/modpack/1.20.1.zip"]
-         }
-      },
-      {
-         "ico_url":"https://fabricmc.net/assets/logo.png",
-         "name":"Fabric 1.20.1",
-         "descript":"Українська збірка модів",
-		 "font-size_name":"26",
-         "info_dowloand":{
-			"type":"fabric",
-            "id":"fabric",
-            "vers":"1",
-            "url":["https://github.com/mirmironuk/test_MKSR/raw/main/modpack/fabric.zip"],
-			"id_addition":"1.20.1"
-         }
 	  }
    ]
 }
