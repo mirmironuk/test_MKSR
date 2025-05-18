@@ -2,9 +2,10 @@
    "data":[
       {
          "ico_url":"https://github.com/mirmironuk/test_MKSR/raw/main/modpack/STADV_img.png",
-         "name":{"Українська":["Міжзоряні пригоди","12"],"English":["STADV","20"]},
-         "descript":"Українська збірка модів",
-		 "font-size_name":"12",
+         "name":{"Українська":["Міжзоряні пригоди","12"],"English":["Interstellar adventures","12"],
+		 "Суржик(Дніпровський)":["Міжзоряні пригоди","12"],"Азірівка":["Міжзоряні пригоди","12"]},
+         "descript":{"Українська":"Міжзоряні пригоди","English":"Interstellar adventures",
+		 "Суржик(Дніпровський)":"Міжзоряні пригоди","Азірівка":"Міжзоряні пригоди"},
          "info_dowloand":{
 			"type":"forge",
             "id":"STADV",
@@ -13,6 +14,20 @@
 			"https://github.com/mirmironuk/test_MKSR/raw/main/modpack/STADV_part2.zip",
 			"https://github.com/mirmironuk/test_MKSR/raw/main/modpack/STADV_part3.zip"],
 			"id_addition":"1.12.2-14.23.5.2860"
+         }
+	  },
+      {
+         "ico_url":"https://github.com/mirmironuk/test_MKSR/raw/main/modpack/STADV_img.png",
+         "name":{"Українська":["Ваніла","16"],"English":["Vanila","16"],
+		 "Суржик(Дніпровський)":["Ваніла","16"],"Азірівка":["Ваніла","16"]},
+         "descript":{"Українська":"Ваніла","English":["Vanila","16"],
+		 "Суржик(Дніпровський)":"Ваніла","Азірівка":"Ваніла"},
+         "info_dowloand":{
+			"type":"vanila",
+            "id":"1.21.5",
+            "vers":"1",
+            "url":["https://github.com/mirmironuk/test_MKSR/raw/main/modpack/1.21.5.zip"],
+			"id_addition":"1.21.5"
          }
 	  }
    ]
