@@ -20,7 +20,7 @@
          "ico_url":"https://github.com/mirmironuk/test_MKSR/raw/main/modpack/STADV_img.png",
          "name":{"Українська":["Ваніла","16"],"English":["Vanila","16"],
 		 "Суржик(Дніпровський)":["Ваніла","16"],"Азірівка":["Ваніла","16"]},
-         "descript":{"Українська":"Ваніла","English":["Vanila","16"],
+         "descript":{"Українська":"Ваніла","English":"Vanila",
 		 "Суржик(Дніпровський)":"Ваніла","Азірівка":"Ваніла"},
          "info_dowloand":{
 			"type":"vanila",
