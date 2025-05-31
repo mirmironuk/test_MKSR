@@ -6,6 +6,7 @@
 		 "Суржик(Дніпровський)":["Міжзоряні пригоди","12"],"Азірівка":["Міжзоряні пригоди","12"]},
          "descript":{"Українська":"Міжзоряні пригоди","English":"Interstellar adventures",
 		 "Суржик(Дніпровський)":"Міжзоряні пригоди","Азірівка":"Міжзоряні пригоди"},
+		 "ip_server": "ger-02-b.leavehosting.com:20036"
          "info_dowloand":{
 			"type":"forge",
             "id":"STADV",
@@ -17,7 +18,7 @@
          }
 	  },
       {
-         "ico_url":"https://github.com/mirmironuk/test_MKSR/raw/main/modpack/STADV_img.png",
+         "ico_url":"https://github.com/mirmironuk/test_MKSR/raw/main/modpack/vanilaicon.png",
          "name":{"Українська":["Ваніла","16"],"English":["Vanila","16"],
 		 "Суржик(Дніпровський)":["Ваніла","16"],"Азірівка":["Ваніла","16"]},
          "descript":{"Українська":"Ваніла","English":"Vanila",
